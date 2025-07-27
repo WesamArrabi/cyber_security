@@ -1,6 +1,8 @@
 # Cybersecurity Attacks Data Science Pipeline
 
 A complete end‑to‑end data science pipeline for exploring, analyzing, and modeling a 40,000‑record cybersecurity attacks dataset from Kaggle. This project demonstrates how to go from raw logs to actionable insights and predictive models.
+this dataset offers a realistic representation of travel history, making it an ideal playground for various analytical tasks.
+Use the cybersecurity attacks dataset to help you assess the heatmaps, attack signatures, types, and more!
 
 ##  Repository Structure
 
